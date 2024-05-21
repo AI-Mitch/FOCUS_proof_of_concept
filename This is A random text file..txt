@@ -1,0 +1,4 @@
+This is a random text file.
+This is a bug fix, and it is up to date!
+
+I added this line and made the first "a" in the document lowercase
